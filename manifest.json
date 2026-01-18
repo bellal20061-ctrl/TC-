@@ -1,0 +1,18 @@
+
+{
+  "name": "তালুকদার কম্পিউটার - ডিজিটাল শপ ম্যানেজার",
+  "short_name": "শপ ম্যানেজার",
+  "description": "তালুকদার কম্পিউটারের জন্য আধুনিক ডিজিটাল মেমো ও হিসাব ম্যানেজমেন্ট অ্যাপ।",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3222/3222672.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
